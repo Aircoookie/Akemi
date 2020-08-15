@@ -1,4 +1,4 @@
-# Akemi
+<img src="/akemi/001_cheerful.png">
 
 Akemi is an RGB LED in a shrugging pose, brought to life in a 32x32 pixel art!
 
